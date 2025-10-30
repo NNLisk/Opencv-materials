@@ -24,6 +24,10 @@
     + bitwise operations, combining images, 
     + combining binary images with and, or, xor comparators
 
+## Example
+
+![enhancement](opencv_bootcamp_assets_NB3/Opencv3.png)
+
 ## Requirements
 + cv2
 + numpy
